@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "s5PqwRV+0zuq0qWxjl9dnAKfpiX3dz+I+RVx51jgm94nGfKRVlpGCyw+cNCUkmImSmAyrL/eru2fIg9cx5/oHQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kevinfranklin46\\Documents\\launchcode\\csharp-practice\\CH9 & 10\\Studio\\SkillsTracker\\SkillsTracker\\SkillsTracker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kevinfranklin46\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
